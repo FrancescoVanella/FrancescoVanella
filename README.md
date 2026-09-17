@@ -4,4 +4,4 @@ Currently pursuing an M.Sc. in **Data Science & Engineering** at Politecnico di 
 
 I build machine learning systems with interests in Reinforcement Learning, Large Language Models (LLMs), Natural Language Processing, Time Series Modeling and Anomaly Detection.
 
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/francesco-vanella) · francescovan0601@gmail.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/francesco-vanella) · francescovanell@gmail.com
