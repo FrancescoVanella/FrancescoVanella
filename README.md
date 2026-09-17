@@ -2,6 +2,6 @@
 
 Currently pursuing an M.Sc. in **Data Science & Engineering** at Politecnico di Torino, with a B.Sc. in **Mathematics for Engineering**.
 
-I build machine learning systems with interests in Reinforcement Learning, Large Language Models (LLMs), Natural Language Processing, Time Series Modeling and Anomaly Detection.
+I build machine learning systems, with interests in Reinforcement Learning, Large Language Models, and Time Series Modeling.
 
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/francesco-vanella) · francescovanell@gmail.com
